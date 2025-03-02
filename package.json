@@ -1,0 +1,25 @@
+{
+  "name": "chaiorbackend",
+  "version": "1.0.0",
+  "description": "a backend series",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/Aman01kumar/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Aman01kumar/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman01kumar/chai-backend.git"
+  },
+  "license": "ISC",
+  "author": "Aman Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
